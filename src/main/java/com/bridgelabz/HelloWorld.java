@@ -13,4 +13,7 @@ public class HelloWorld {
         System.out.println("Your Second input : " + sc.nextInt());
 // HelloWorld.multiply(i1, i2);
     }
+    public static void multiply(int i1 , int i2){
+        System.out.println(i1 * i2);
+    }
 }
