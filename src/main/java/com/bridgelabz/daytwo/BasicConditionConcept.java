@@ -12,7 +12,7 @@ public class BasicConditionConcept {
 //        switchExample(i);
   //      System.out.println(10/i);
         //ternary operator
-       // Integer integer=null;
+       //Integer integer=null;
        // System.out.println(integer.equals(1));
        // System.out.println(i%2 == 0? "Even num": "odd num");
         System.out.println(i == 0 ? "0" : i == 1 ? "1" : i == 2 ? "2" : "other");
