@@ -3,6 +3,7 @@ package com.bridgelabz;
 import java.util.Scanner;
 
 public class FlipCoin {
+
     public static void main(String[] args) {
         System.out.println("Give a number: ");
         Scanner sc = new Scanner(System.in);//console
